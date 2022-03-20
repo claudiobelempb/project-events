@@ -1,0 +1,9 @@
+npx create-next-app .
+
+Dependências
+
+
+Dependências - DEV
+yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
+yarn eslint src/**/*.jsx --fix
+yarn eslint src/**/*.js --fix
